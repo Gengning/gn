@@ -7,7 +7,7 @@
 //
 
 #import "SecondViewController.h"
-
+#import "ViewController.h"
 @interface SecondViewController ()
 
 @end
@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor=[UIColor redColor];
+    
 }
 
 - (void)didReceiveMemoryWarning {
